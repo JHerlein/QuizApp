@@ -14,6 +14,19 @@ body {
   display: flex;
 }
 
+h2 {
+  margin: 0;
+}
+
+ul li {
+  font-size: 1.2 rem;
+  margin: 1rem 0;
+}
+
+ul li label {
+  cursor: pointer;
+}
+
 .quiz-container {
   background-color: white;
   border-radius: 5px;
